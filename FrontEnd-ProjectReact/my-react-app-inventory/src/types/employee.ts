@@ -1,0 +1,29 @@
+export interface Employee {
+  id: number;
+  empId?: string;
+  empIdno: string;
+  lastName: string;
+  firstName: string;
+  middleName: string;
+  address?: string;
+  dateOfBirth?: Date;
+  age?: number;
+  gender?: string;
+  mstatus?: string;
+  religion?: string;
+  eduAttentment?: string;
+  dateHired?: Date;
+  department?: string;
+  position?: string;
+  contactNo?: string;
+  postalCode?: string;
+  country?: string;
+  state?: string;
+  emailAddress?: string;
+  fax?: string;
+  mobileNo?: string;
+  city?: string;
+  modifiedDateTime: Date;
+  createdDateTime: Date;
+  recStatus?: string;
+}

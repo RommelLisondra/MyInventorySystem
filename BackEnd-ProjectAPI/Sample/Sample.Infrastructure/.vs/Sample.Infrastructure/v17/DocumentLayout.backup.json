@@ -1,0 +1,1883 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\supplierimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\salesreturnmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\salesreturndetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\salesordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\salesorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\salesinvoicemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\salesinvoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\receivingreportmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\receivingreportdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\purchasereturnmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\purchasereturndetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\purchaserequisitionmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\purchaserequisitiondetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\purchaseordermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\purchaseorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\officialreceiptmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\officialreceiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\itemunitmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\itemsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\itemimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\itemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\employeesalesref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\employeeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\employeedelivered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\employeechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\employeeapprover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\deliveryreceiptmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\deliveryreceiptdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\dbtransactionright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\dbtittle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\dbaccessright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\customerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\itemdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\itemdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\employeesalesrefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\employeesalesrefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\employeeimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\employeeimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\employeedeliveredrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\employeedeliveredrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\employeecheckerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\employeecheckerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\employeeapproverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\employeeapproverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\deliveryreceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\deliveryreceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\purchaserequisitionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\purchaserequisitionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\officialreceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\officialreceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\supplierimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\supplierimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\salesreturnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\salesreturnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\salesorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\salesorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\salesinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\salesinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\receivingreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\receivingreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\purchasereturnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\purchasereturnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\officialreceiptmasterfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\officialreceiptmasterfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E68652-FDF6-40EF-AB42-AC3D6A390CFE}|..\\Sample.Common\\Sample.Common.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.common\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\ideliveryreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\customerimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\customerimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\itemsupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\itemsupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\ipurchaserequisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\isalesreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\isalesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\isalesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\ireceivingreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\ipurchasereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\ipurchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iofficialreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\icustomerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\itemunitmeasurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\itemunitmeasurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\isupplierimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\repository\\itemimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:repository\\itemimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\supplierimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\supplierimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iemployeeapprover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\isupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iitemunitmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iitemsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iitemimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iitemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iemployeesalesref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\contracts\\iemployeeimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\itemunitmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\itemunitmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\itemimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\itemimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\customerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\customerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\purchaseorderdetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\purchaseorderdetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\purchaseordermasterfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\purchaseordermasterfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\stockcountmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\stockcountmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\iteminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\iteminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\audittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\audittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\approver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\approver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\approvalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\approvalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\purchasereturndetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\purchasereturndetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\purchaserequisitionmasterfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\purchaserequisitionmasterfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\purchaserequisitiondetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\purchaserequisitiondetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\entityframework\\deliveryreceiptdetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:entityframework\\deliveryreceiptdetailfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E9ACF3-64AD-49F5-B80B-D1CF05420982}|Sample.Infrastructure.csproj|solutionrelative:unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F119E78E-EABA-4284-9EE2-816A61F641BE}|..\\Sample.Domain\\Sample.Domain.csproj|c:\\db backup\\deleted file\\recovered\\local disk(c)\\users\\rommel lisondra\\source\\repos\\sample\\sample.domain\\domain\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "System.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\System.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\System.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\System.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\System.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:22:18.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Supplier.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Supplier.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA/wB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:21:56.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesOrderDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesOrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\SalesOrderDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesOrderDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\SalesOrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:20:42.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesInvoiceDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesInvoiceDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\SalesInvoiceDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesInvoiceDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\SalesInvoiceDetail.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:48:20.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesOrderMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesOrderMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\SalesOrderMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesOrderMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\SalesOrderMaster.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA/wB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:26:42.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesReturnDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesReturnDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\SalesReturnDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesReturnDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\SalesReturnDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:50:39.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesReturnMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesReturnMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\SalesReturnMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesReturnMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\SalesReturnMaster.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:50:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Warehouse.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Warehouse.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Warehouse.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:52:08.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SupplierImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\SupplierImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SupplierImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\SupplierImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:51:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReceivingReportMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ReceivingReportMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\ReceivingReportMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ReceivingReportMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\ReceivingReportMaster.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA/wCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:47:46.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReceivingReportDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ReceivingReportDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\ReceivingReportDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ReceivingReportDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\ReceivingReportDetail.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:47:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PurchaseReturnMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseReturnMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\PurchaseReturnMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseReturnMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\PurchaseReturnMaster.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA/wCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:46:50.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PurchaseReturnDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseReturnDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\PurchaseReturnDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseReturnDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\PurchaseReturnDetail.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:46:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesInvoiceMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesInvoiceMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\SalesInvoiceMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\SalesInvoiceMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\SalesInvoiceMaster.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:48:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PurchaseRequisitionMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseRequisitionMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\PurchaseRequisitionMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseRequisitionMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\PurchaseRequisitionMaster.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:45:47.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PurchaseRequisitionDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseRequisitionDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\PurchaseRequisitionDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseRequisitionDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\PurchaseRequisitionDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:45:14.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PurchaseOrderMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseOrderMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\PurchaseOrderMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseOrderMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\PurchaseOrderMaster.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:43:59.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PurchaseOrderDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseOrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\PurchaseOrderDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\PurchaseOrderDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\PurchaseOrderDetail.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:43:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OfficialReceiptMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\OfficialReceiptMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\OfficialReceiptMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\OfficialReceiptMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\OfficialReceiptMaster.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA/wB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:09:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OfficialReceiptDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\OfficialReceiptDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\OfficialReceiptDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\OfficialReceiptDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\OfficialReceiptDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:18:17.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ItemUnitMeasure.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemUnitMeasure.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\ItemUnitMeasure.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemUnitMeasure.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\ItemUnitMeasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:17:59.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ItemSupplier.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemSupplier.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\ItemSupplier.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemSupplier.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\ItemSupplier.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:17:48.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:39:16.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:59:48.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeSalesRef.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeSalesRef.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\EmployeeSalesRef.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeSalesRef.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\EmployeeSalesRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:38:25.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\EmployeeImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\EmployeeImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:38:04.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeDelivered.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeDelivered.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\EmployeeDelivered.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeDelivered.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\EmployeeDelivered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:16:18.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Location.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Location.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:41:07.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeApprover.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeApprover.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\EmployeeApprover.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeApprover.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\EmployeeApprover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:36:47.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\ItemDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\ItemDetail.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAC4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:09:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ItemImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\ItemImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\ItemImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\ItemImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:40:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:15:18.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeliveryReceiptMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DeliveryReceiptMaster.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\DeliveryReceiptMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DeliveryReceiptMaster.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\DeliveryReceiptMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:14:15.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dbtittle.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Dbtittle.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Dbtittle.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Dbtittle.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Dbtittle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T04:01:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DbaccessRight.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DbaccessRight.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\DbaccessRight.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DbaccessRight.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\DbaccessRight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:52:26.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Dbaccess.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Dbaccess.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Dbaccess.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Dbaccess.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Dbaccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:52:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomerImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\CustomerImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\CustomerImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\CustomerImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\CustomerImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:52:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeChecker.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeChecker.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\EmployeeChecker.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\EmployeeChecker.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\EmployeeChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:37:07.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:41:26.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DbtransactionRight.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DbtransactionRight.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\DbtransactionRight.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DbtransactionRight.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\DbtransactionRight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T04:01:17.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DeliveryReceiptDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DeliveryReceiptDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Entities\\DeliveryReceiptDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Entities\\DeliveryReceiptDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Entities\\DeliveryReceiptDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:26:53.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ItemDetailRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ItemDetailRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemDetailRepository.cs",
+              "RelativeToolTip": "Repository\\ItemDetailRepository.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAgwBgBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:34:35.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmployeeSalesRefRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeSalesRefRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeSalesRefRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeSalesRefRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeSalesRefRepository.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:12:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwJAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:14:44.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmployeeImageRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeImageRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeImageRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeImageRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeImageRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:12:06.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmployeeDeliveredRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeDeliveredRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeDeliveredRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeDeliveredRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeDeliveredRepository.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswHIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:11:33.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmployeeCheckerRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeCheckerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeCheckerRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeCheckerRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeCheckerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:11:29.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmployeeApproverRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeApproverRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeApproverRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\EmployeeApproverRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeApproverRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:10:54.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeliveryReceiptRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\DeliveryReceiptRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DeliveryReceiptRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\DeliveryReceiptRepository.cs",
+              "RelativeToolTip": "Repository\\DeliveryReceiptRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:11:26.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PurchaseRequisitionRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\PurchaseRequisitionRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PurchaseRequisitionRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\PurchaseRequisitionRepository.cs",
+              "RelativeToolTip": "Repository\\PurchaseRequisitionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:12:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PurchaseOrderRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\PurchaseOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PurchaseOrderRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\PurchaseOrderRepository.cs",
+              "RelativeToolTip": "Repository\\PurchaseOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:12:37.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OfficialReceiptRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\OfficialReceiptRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OfficialReceiptRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\OfficialReceiptRepository.cs",
+              "RelativeToolTip": "Repository\\OfficialReceiptRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwAIBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:11:48.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SupplierImageRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SupplierImageRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SupplierImageRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SupplierImageRepository.cs",
+              "RelativeToolTip": "Repository\\SupplierImageRepository.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:08:17.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SalesReturnRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SalesReturnRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SalesReturnRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SalesReturnRepository.cs",
+              "RelativeToolTip": "Repository\\SalesReturnRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:11:07.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SalesOrderRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SalesOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SalesOrderRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SalesOrderRepository.cs",
+              "RelativeToolTip": "Repository\\SalesOrderRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAKAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:10:39.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SalesInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SalesInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SalesInvoiceRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SalesInvoiceRepository.cs",
+              "RelativeToolTip": "Repository\\SalesInvoiceRepository.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwKMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:10:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ReceivingReportRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ReceivingReportRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ReceivingReportRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ReceivingReportRepository.cs",
+              "RelativeToolTip": "Repository\\ReceivingReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:13:21.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PurchaseReturnRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\PurchaseReturnRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PurchaseReturnRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\PurchaseReturnRepository.cs",
+              "RelativeToolTip": "Repository\\PurchaseReturnRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T05:12:59.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Common\\Utilities.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Common\\Utilities.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Common\\Utilities.cs",
+              "RelativeToolTip": "..\\Sample.Common\\Utilities.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:38:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OfficialReceiptMasterFile.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\OfficialReceiptMasterFile.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\OfficialReceiptMasterFile.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\OfficialReceiptMasterFile.cs",
+              "RelativeToolTip": "EntityFramework\\OfficialReceiptMasterFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:20:46.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IDeliveryReceipt.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IDeliveryReceipt.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IDeliveryReceipt.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IDeliveryReceipt.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IDeliveryReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:12:28.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CustomerImageRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\CustomerImageRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerImageRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\CustomerImageRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerImageRepository.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAxwHAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:07:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SupplierRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\SupplierRepository.cs",
+              "RelativeToolTip": "Repository\\SupplierRepository.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:30:11.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAKEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T04:03:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ItemSupplierRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemSupplierRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ItemSupplierRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemSupplierRepository.cs",
+              "RelativeToolTip": "Repository\\ItemSupplierRepository.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAIgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:06:50.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "Repository\\ItemRepository.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:27:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IPurchaseRequisition.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IPurchaseRequisition.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IPurchaseRequisition.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IPurchaseRequisition.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IPurchaseRequisition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:12:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ISalesOrder.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISalesOrder.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\ISalesOrder.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISalesOrder.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\ISalesOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:11:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ISalesInvoice.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISalesInvoice.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\ISalesInvoice.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISalesInvoice.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\ISalesInvoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:10:55.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IReceivingReport.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IReceivingReport.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IReceivingReport.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IReceivingReport.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IReceivingReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:13:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IPurchaseReturn.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IPurchaseReturn.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IPurchaseReturn.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IPurchaseReturn.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IPurchaseReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:13:31.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IPurchaseOrder.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IPurchaseOrder.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IPurchaseOrder.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IPurchaseOrder.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IPurchaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:13:13.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ISalesReturn.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISalesReturn.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\ISalesReturn.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISalesReturn.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\ISalesReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:11:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IOfficialReceipt.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IOfficialReceipt.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IOfficialReceipt.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IOfficialReceipt.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IOfficialReceipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:12:07.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ICustomer.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\ICustomer.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ICustomer.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\ICustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:56:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ICustomerImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ICustomerImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\ICustomerImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ICustomerImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\ICustomerImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:16:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ItemUnitMeasureRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemUnitMeasureRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ItemUnitMeasureRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemUnitMeasureRepository.cs",
+              "RelativeToolTip": "Repository\\ItemUnitMeasureRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:07:28.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "WarehouseRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\WarehouseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\WarehouseRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\WarehouseRepository.cs",
+              "RelativeToolTip": "Repository\\WarehouseRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:08:45.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IWarehouse.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IWarehouse.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IWarehouse.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IWarehouse.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IWarehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:14:33.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ISupplierImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISupplierImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\ISupplierImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISupplierImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\ISupplierImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:39:46.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ItemImageRepository.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemImageRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ItemImageRepository.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Repository\\ItemImageRepository.cs",
+              "RelativeToolTip": "Repository\\ItemImageRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:06:16.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "SupplierImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\SupplierImage.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\SupplierImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\SupplierImage.cs",
+              "RelativeToolTip": "EntityFramework\\SupplierImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:06:13.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IEmployeeApprover.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployeeApprover.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IEmployeeApprover.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployeeApprover.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IEmployeeApprover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:17:14.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployee.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IEmployee.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployee.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:16:46.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ISupplier.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISupplier.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\ISupplier.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\ISupplier.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\ISupplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:50:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IItemSupplier.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemSupplier.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IItemSupplier.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemSupplier.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IItemSupplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:18:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IItemImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IItemImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IItemImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:16:30.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IItemDetail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemDetail.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IItemDetail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemDetail.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IItemDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T05:35:02.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItem.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IItem.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItem.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:28:28.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IEmployeeSalesRef.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployeeSalesRef.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IEmployeeSalesRef.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployeeSalesRef.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IEmployeeSalesRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:18:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IEmployeeImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployeeImage.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IEmployeeImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IEmployeeImage.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IEmployeeImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:22:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IItemUnitMeasure.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemUnitMeasure.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Contracts\\IItemUnitMeasure.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Contracts\\IItemUnitMeasure.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Contracts\\IItemUnitMeasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:19:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ItemUnitMeasure.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ItemUnitMeasure.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\ItemUnitMeasure.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ItemUnitMeasure.cs",
+              "RelativeToolTip": "EntityFramework\\ItemUnitMeasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:44.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ItemImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ItemImage.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\ItemImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ItemImage.cs",
+              "RelativeToolTip": "EntityFramework\\ItemImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:57.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "CustomerImage.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\CustomerImage.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\CustomerImage.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\CustomerImage.cs",
+              "RelativeToolTip": "EntityFramework\\CustomerImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:55:13.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Checker.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\Checker.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Checker.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\Checker.cs",
+              "RelativeToolTip": "EntityFramework\\Checker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:36.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\Customer.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Customer.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\Customer.cs",
+              "RelativeToolTip": "EntityFramework\\Customer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:39.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\RolePermission.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\RolePermission.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\RolePermission.cs",
+              "RelativeToolTip": "EntityFramework\\RolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:59:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "PurchaseOrderDetailFile.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseOrderDetailFile.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\PurchaseOrderDetailFile.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseOrderDetailFile.cs",
+              "RelativeToolTip": "EntityFramework\\PurchaseOrderDetailFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T03:59:15.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "PurchaseOrderMasterFile.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseOrderMasterFile.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\PurchaseOrderMasterFile.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseOrderMasterFile.cs",
+              "RelativeToolTip": "EntityFramework\\PurchaseOrderMasterFile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:18:31.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Helpers.cs",
+              "RelativeDocumentMoniker": "Helpers.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\Helpers.cs",
+              "RelativeToolTip": "Helpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:27:01.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "StockCountMaster.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\StockCountMaster.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\StockCountMaster.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\StockCountMaster.cs",
+              "RelativeToolTip": "EntityFramework\\StockCountMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ItemInventory.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ItemInventory.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\ItemInventory.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ItemInventory.cs",
+              "RelativeToolTip": "EntityFramework\\ItemInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:50.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "AuditTrail.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\AuditTrail.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\AuditTrail.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\AuditTrail.cs",
+              "RelativeToolTip": "EntityFramework\\AuditTrail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:32.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\AppUser.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\AppUser.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\AppUser.cs",
+              "RelativeToolTip": "EntityFramework\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:28.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Approver.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\Approver.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Approver.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\Approver.cs",
+              "RelativeToolTip": "EntityFramework\\Approver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ApprovalHistory.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ApprovalHistory.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\ApprovalHistory.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\ApprovalHistory.cs",
+              "RelativeToolTip": "EntityFramework\\ApprovalHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:13.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\AppRole.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\AppRole.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\AppRole.cs",
+              "RelativeToolTip": "EntityFramework\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:25:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "PurchaseReturnDetailFile.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseReturnDetailFile.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\PurchaseReturnDetailFile.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseReturnDetailFile.cs",
+              "RelativeToolTip": "EntityFramework\\PurchaseReturnDetailFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:24:50.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "PurchaseRequisitionMasterFile.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseRequisitionMasterFile.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\PurchaseRequisitionMasterFile.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseRequisitionMasterFile.cs",
+              "RelativeToolTip": "EntityFramework\\PurchaseRequisitionMasterFile.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:24:28.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "PurchaseRequisitionDetailFile.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseRequisitionDetailFile.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\PurchaseRequisitionDetailFile.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\PurchaseRequisitionDetailFile.cs",
+              "RelativeToolTip": "EntityFramework\\PurchaseRequisitionDetailFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:24:15.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "DeliveryReceiptDetailFile.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\DeliveryReceiptDetailFile.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\DeliveryReceiptDetailFile.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\EntityFramework\\DeliveryReceiptDetailFile.cs",
+              "RelativeToolTip": "EntityFramework\\DeliveryReceiptDetailFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:44:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:45:46.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Domain\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "..\\Sample.Domain\\Domain\\IAggregateRoot.cs",
+              "ToolTip": "C:\\DB Backup\\Deleted File\\Recovered\\Local Disk(C)\\Users\\Rommel Lisondra\\source\\repos\\Sample\\Sample.Domain\\Domain\\IAggregateRoot.cs",
+              "RelativeToolTip": "..\\Sample.Domain\\Domain\\IAggregateRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T02:58:13.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,7 +6,7 @@ import {
   addCompany,
   updateCompanyById,
   deleteCompanyById,
-  searchCompanys,
+  searchCompany,
   fetchCompanysPaged,
 } from "./companyThunk";
 import type { Company } from "../../types/company";
@@ -98,7 +98,7 @@ export const CompanySlice = createSlice({
       })
 
       // Search
-      .addCase(searchCompanys.fulfilled, (state: { company: Company[]; }, action: PayloadAction<Company[]>) => {
+      .addCase(searchCompany.fulfilled, (state: { company: Company[]; }, action: PayloadAction<Company[]>) => {
         state.company = action.payload;
       });
   },

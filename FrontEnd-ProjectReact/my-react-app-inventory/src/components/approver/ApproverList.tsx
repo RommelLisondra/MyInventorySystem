@@ -215,19 +215,19 @@ const ApproverList: React.FC<Props> = ({employees,onDelete,onEdit,onReload,onSea
                         </button>
                       ))}
                       {currentPage < totalPages - 2 && (
-                                <>
-                                <span className="mx-1">...</span>
-                                <button
-                                    className={`btn btn-sm ${
-                                    currentPage === totalPages
-                                        ? "btn-primary"
-                                        : "btn-outline-primary"
-                                    }`}
-                                    onClick={() => goToPage(totalPages)}
-                                >
+                        <>
+                        <span className="mx-1">...</span>
+                          <button
+                            className={`btn btn-sm ${
+                              currentPage === totalPages
+                              ? "btn-primary"
+                              : "btn-outline-primary"
+                          }`}
+                            onClick={() => goToPage(totalPages)}
+                          >
                                     {totalPages}
-                                </button>
-                                </>
+                          </button>
+                        </>
                       )}
                       <button
                         className="btn btn-sm btn-outline-primary"
